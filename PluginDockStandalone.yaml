@@ -3,8 +3,8 @@ author: Shiyuvi
 punchline: 把常用插件入口收纳成可折叠的图标栏
 description: |-
   把其他 Dalamud 插件的主界面/设置入口收纳到一个可选的悬浮图标栏里（支持折叠/锁定位置；并提供按 ImGui 窗口名隐藏悬浮窗、预设与分享码）。
-repo_url: https://github.com/flyrio/PluginDockStandalone
-icon_url: https://raw.githubusercontent.com/flyrio/PluginDockStandalone/main/images/icon.png
+repo_url: https://github.com/anmili2022/PluginDockStandalone
+icon_url: https://raw.githubusercontent.com/anmili2022/PluginDockStandalone/main/images/icon.png
 tags:
   - ui
   - dock
